@@ -35,9 +35,9 @@ CREATE TABLE Respuestas(
 GO
 
 INSERT INTO Respuestas(Tipo_transporte, Distancia_Recorrida, Domicilio_Origen, Domicilio_Destino , Email)
-VALUES(1,1.50,'corrientes 2200','almafuerte 1033','anibal@gmail.com'),
-(2,1.00,'artigas y gervacio mendez','almafuerte 1033','marta@gmail.com'),
-(2, 1.00,'las lechiguanas 50','almafuerte 1033','cecilia@gmail.com'),
+VALUES(1,4.50,'corrientes 2200','almafuerte 1033','anibal@gmail.com'),
+(2, 8.50,'artigas y gervacio mendez','almafuerte 1033','marta@gmail.com'),
+(2, 6.60,'las lechiguanas 50','almafuerte 1033','cecilia@gmail.com'),
 (2, 1.00,'Corrientes y 25 de mayor','almafuerte 1033','romina@gmail.com'),
 (1, 1.00,'las lechiguanas 50','almafuerte 1033','gervacio@gmail.com'),
 (2, 1.00,'las lechiguanas 50','almafuerte 1033','amelia@gmail.com')
